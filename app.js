@@ -1,101 +1,88 @@
-// alert('Your form has been submitted')
+/* //                         NaN (result will be shown as not a nmbr) */
 
-// let alert_var = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio dicta illum molestiae maiores voluptates voluptateculpa necessitatibus illo eius. Voluptate similique suscipit dicta natus asperiores illo minima neque deserunt totam."
+/*let firstName = 'javeria'
+let lastName = 'Farooq'
+document.write(firstName - lastName)*/
 
-// document.write(alert_var)
-// document.write(alert_var)
-// document.write(alert_var)
-// document.write(alert_var)
+/*//                        NaN (result will be shown as not a nmbr)*/
 
-// alert(alert_var)
-// alert(alert_var)
-// alert(alert_var)
+/*let a = "2y"
+let b = 5
+document.write(a - b)*/
 
-                        // NaN (result will be shown as not a nmbr)
+/*//                         result will be  shown as "-3" */
 
-// let firstName = 'javeria'
-// let lastName = 'Farooq'
-// document.write(firstName - lastName)
+/*let a = "2"
+let b = 5
+document.write(a - b)*/
 
-                   // NaN (result will be shown as not a nmbr)
+/*//                         concate this and result will be shown as javeriafarooq*/
 
-// let a = "2y"
-// let b = 5
-// document.write(a - b)
+/*let a = "javeria"
+let b = "farooq"
+document.write(a + b)*/
 
-                //    result will be  shown as "-3"
+/*//                        NaN (result will be shown as not a nmbr)*/
 
-// let a = "2"
-// let b = 5
-// document.write(a - b)
+/*let a = "javeria"
+let b = "farooq"
+document.write(a - b)*/
 
-                //  concate this and result will be shown as javeriafarooq
+/*// concate this and result will be shown as 12*/
 
-// let a = "javeria"
-// let b = "farooq"
-// document.write(a + b)
+/*let a = "1"
+let b = "2"
+document.write(a + b)*/
 
-                // NaN (result will be shown as not a nmbr)
+/*//                        add this and result will be shown as 12*/
 
-// let a = "javeria"
-// let b = "farooq"
-// document.write(a - b)
+/*let a = 1
+let b = "2"
+document.write(a + b)*/
 
-                // concate this and result will be shown as 12
+/*// add this and result will be shown as 3*/
 
-// let a = "1"
-// let b = "2"
-// document.write(a + b)
+/*let a = 1
+let b = 2
+document.write(a + b)*/
 
-                // add this and result will be shown as 12
+/*// subtract this and result will be shown as -1*/
 
-// let a = 1
-// let b = "2"
-// document.write(a + b)
+/*let a = 1
+let b = 2
+document.write(a - b)*/
 
-                // add this and result will be shown as 3
+/*// subtract this and result will be shown as -1*/
 
-// let a = 1
-// let b = 2
-// document.write(a + b)
+/*let a = "1"
+let b = "2"
+document.write(a - b)*/
 
-                // subtract this and result will be shown as -1
+/*// subtract this and result will be shown as -1*/
 
-// let a = 1
-// let b = 2
-// document.write(a - b)
+/*let a = "1"
+let b = 2
+document.write(a - b)*/
 
-                 // subtract this and result will be shown as -1
+/*// subtract this and result will be shown as -1*/
 
-// let a = "1"
-// let b = "2"
-// document.write(a - b)
+/*let a = 1
+let b = 2
+document.write(a - b)*/
 
-                // subtract this and result will be shown as -1
+/*// multiply this and result will be shown as 4*/
 
-// let a = "1"
-// let b = 2
-// document.write(a - b)
+/*let a = "2"
+let b = "2"
+document.write(a * b)*/
 
-                // subtract this and result will be shown as -1
+/*prompt message */
 
-// let a = 1
-// let b = 2
-// document.write(a - b)
+/*let user_name = prompt(" Enter name ")
+let user_age = prompt(" Enter age ")
+let user_info = user_name + user_age
+document.write(user_info)*/
 
-                 // multiply this and result will be shown as 4
-
-// let a = "2"
-// let b = "2"
-// document.write(a * b)
-
-// let user_message1 = prompt("Enter name")
-// let user_message2 = prompt("Enter age")
-// let add = user_message1 + user_message2
-// document.write(add)
-
-// let a = +prompt('enter name')
-// document.write(a)
-// document.write(typeof(a))
-
-// document.write(user_message)
+/*let a = +prompt('enter name')
+document.write(a)
+document.write(typeof(a))*/
